@@ -4,11 +4,7 @@
 
 import unittest
 import HTMLTestRunnerNew;
-from testcase.test_login import Test_Logig;
 from class_loanhttp import files_os
-from testcase.test_register import Test_Register
-from testcase.test_recharg import Test_Recharg
-
 #存储测试用例里的类
 suit=unittest.TestSuite();
 #加载测试用例
